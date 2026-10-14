@@ -62,10 +62,9 @@ protobuf==7.36.2
 psutil==7.2.2
 py-spy==0.4.2
 PyAutoGUI==0.9.54
-pyautogui-mcp==2026.1.101837
 pycparser==3.1
 pydantic==2.12.5
-pydantic-core==2.46.5
+pydantic-core==2.41.5
 pydantic-settings==2.15.0
 PyGetWindow==0.0.9
 Pygments==2.21.0
@@ -120,3 +119,5 @@ winrt-Windows.Storage.Streams==3.2.1
 xxhash==4.0.1
 zipp==4.1.1
 zstandard==0.25.0
+python-docx==1.2.0s
+lxml==6.1.3
